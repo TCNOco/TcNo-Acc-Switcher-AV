@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://tcno.co/">
-    <img src="/other/img/Banner.png"></a>
+    <img src="https://raw.githubusercontent.com/TCNOco/TcNo-Acc-Switcher/master/other/img/Banner.png"></a>
 </p>
 
 ## TcNo Account Switcher - False Positives
